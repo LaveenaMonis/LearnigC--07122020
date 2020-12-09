@@ -1,0 +1,11 @@
+C:\Users\GO6P\source\repos\LearningcSharp07122020\Assignment1_BankingApp\bin\Debug\netcoreapp3.1\Assignment1_BankingApp.exe
+C:\Users\GO6P\source\repos\LearningcSharp07122020\Assignment1_BankingApp\bin\Debug\netcoreapp3.1\Assignment1_BankingApp.deps.json
+C:\Users\GO6P\source\repos\LearningcSharp07122020\Assignment1_BankingApp\bin\Debug\netcoreapp3.1\Assignment1_BankingApp.runtimeconfig.json
+C:\Users\GO6P\source\repos\LearningcSharp07122020\Assignment1_BankingApp\bin\Debug\netcoreapp3.1\Assignment1_BankingApp.runtimeconfig.dev.json
+C:\Users\GO6P\source\repos\LearningcSharp07122020\Assignment1_BankingApp\bin\Debug\netcoreapp3.1\Assignment1_BankingApp.dll
+C:\Users\GO6P\source\repos\LearningcSharp07122020\Assignment1_BankingApp\bin\Debug\netcoreapp3.1\Assignment1_BankingApp.pdb
+C:\Users\GO6P\source\repos\LearningcSharp07122020\Assignment1_BankingApp\obj\Debug\netcoreapp3.1\Assignment1_BankingApp.csprojAssemblyReference.cache
+C:\Users\GO6P\source\repos\LearningcSharp07122020\Assignment1_BankingApp\obj\Debug\netcoreapp3.1\Assignment1_BankingApp.AssemblyInfoInputs.cache
+C:\Users\GO6P\source\repos\LearningcSharp07122020\Assignment1_BankingApp\obj\Debug\netcoreapp3.1\Assignment1_BankingApp.AssemblyInfo.cs
+C:\Users\GO6P\source\repos\LearningcSharp07122020\Assignment1_BankingApp\obj\Debug\netcoreapp3.1\Assignment1_BankingApp.dll
+C:\Users\GO6P\source\repos\LearningcSharp07122020\Assignment1_BankingApp\obj\Debug\netcoreapp3.1\Assignment1_BankingApp.pdb

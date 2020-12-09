@@ -1,0 +1,7 @@
+﻿cw - > console.WriteLine
+f5 - Debug mode
+ctrl + F5 - Run mode
+ctrl + Shift + s - Save All
+
+camelCase - local var & private var
+PascalCase - 

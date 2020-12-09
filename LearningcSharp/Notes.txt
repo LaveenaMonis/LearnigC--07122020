@@ -1,0 +1,8 @@
+﻿private - within same class
+
+Value Type - All primitive type variable are
+		Memory is allocated on stack
+		Memory allocation is done automatically
+
+Reference type - Stores address of variables. 
+
